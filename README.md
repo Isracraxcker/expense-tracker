@@ -45,6 +45,6 @@ npx expo start
 🧑‍💻 Autor
 Andy Israel Jaramillo
 Desarrollador de Software | Freelance
+```
 
-
-<p align="center"><i>“El control de tus finanzas es el primer paso hacia la libertad.”</i></p> ```
+<p align="center"><i>“El control de tus finanzas es el primer paso hacia la libertad.”</i></p> 
