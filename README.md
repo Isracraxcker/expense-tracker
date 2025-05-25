@@ -37,7 +37,7 @@
 ## 📦 Instalación
 
 ```bash
-git clone https://github.com/tuusuario/balanz-app.git
+git clone (https://github.com/Isracraxcker/expense-tracker.git)
 cd balanz-app
 npm install
 npx expo start
